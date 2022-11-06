@@ -16,7 +16,7 @@ Bad Bank, a REACT Application where data is intentionally exposed as there are n
 
 - BABEL
 
-### Outcomes from this projec
+### Outcomes from this project
 
 - Build, test, and deploy a React application
 
